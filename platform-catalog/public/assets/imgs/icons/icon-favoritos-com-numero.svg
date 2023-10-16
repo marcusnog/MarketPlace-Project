@@ -1,0 +1,5 @@
+<svg id="Icone_favorito" xmlns="http://www.w3.org/2000/svg" width="35" height="32" viewBox="0 0 35 32">
+  <path id="_Color" data-name=" ↳Color" d="M13.5,25l-1.957-1.8C4.59,16.839,0,12.643,0,7.493A7.387,7.387,0,0,1,7.425,0,8.055,8.055,0,0,1,13.5,2.847,8.055,8.055,0,0,1,19.575,0,7.387,7.387,0,0,1,27,7.493c0,5.15-4.59,9.346-11.543,15.722Z" transform="translate(0 7)" fill="#00ace5"/>
+  <circle id="Elipse_11" data-name="Elipse 11" cx="7.5" cy="7.5" r="7.5" transform="translate(20)" fill="#ff003d"/>
+  <text id="_3" data-name="3" transform="translate(25 11)" fill="#fff" font-size="10" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="0">3</tspan></text>
+</svg>

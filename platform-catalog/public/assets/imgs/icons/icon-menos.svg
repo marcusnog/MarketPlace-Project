@@ -1,0 +1,7 @@
+<svg id="Componente_56_2" data-name="Componente 56 – 2" xmlns="http://www.w3.org/2000/svg" width="27" height="38" viewBox="0 0 27 38">
+  <g id="Retângulo_23" data-name="Retângulo 23" transform="translate(27 38) rotate(180)" fill="#fff" stroke="#00ace5" stroke-width="1">
+    <path d="M0,0H22a5,5,0,0,1,5,5V25a5,5,0,0,1-5,5H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+    <path d="M.5.5H22A4.5,4.5,0,0,1,26.5,5V25A4.5,4.5,0,0,1,22,29.5H.5a0,0,0,0,1,0,0V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+  </g>
+  <text id="_-" data-name="-" transform="translate(8 30)" fill="#08f" font-size="28" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">-</tspan></text>
+</svg>

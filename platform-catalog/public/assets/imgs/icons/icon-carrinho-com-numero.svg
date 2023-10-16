@@ -1,0 +1,9 @@
+<svg id="Icone_carrinho" xmlns="http://www.w3.org/2000/svg" width="35" height="32" viewBox="0 0 35 32">
+  <path id="Caminho_1153" data-name="Caminho 1153" d="M7.009,2H1V4.733H5.036L8.508,22.059h.016V22.5h16.3v-.339l2.75-13.2L28,7.467H8.092L7.376,3.9Z" transform="translate(-1 5)" fill="#00ace5" fill-rule="evenodd"/>
+  <path id="Caminho_1154" data-name="Caminho 1154" d="M9.8,21.6A1.8,1.8,0,1,0,8,19.8,1.8,1.8,0,0,0,9.8,21.6Z" transform="translate(1.344 10.4)" fill="#00ace5"/>
+  <path id="Caminho_1155" data-name="Caminho 1155" d="M18.6,19.8A1.8,1.8,0,1,1,16.8,18,1.8,1.8,0,0,1,18.6,19.8Z" transform="translate(3.687 10.4)" fill="#00ace5"/>
+  <g id="Grupo_66" data-name="Grupo 66">
+    <circle id="Elipse_11" data-name="Elipse 11" cx="7.5" cy="7.5" r="7.5" transform="translate(20)" fill="#ff003d"/>
+    <text id="_3" data-name="3" transform="translate(25 11)" fill="#fff" font-size="10" font-family="RobotoMono-Regular, Roboto Mono"><tspan x="0" y="0">3</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.286" height="24" viewBox="0 0 34.286 24">
+  <g id="mastercard" transform="translate(-2 -5)">
+    <path id="Caminho_1381" data-name="Caminho 1381" d="M5.429,5A3.429,3.429,0,0,0,2,8.429V25.571A3.429,3.429,0,0,0,5.429,29H32.857a3.429,3.429,0,0,0,3.429-3.429V8.429A3.429,3.429,0,0,0,32.857,5Z" fill="#2a2a3e"/>
+    <path id="Caminho_1382" data-name="Caminho 1382" d="M11.857,21.714A6.857,6.857,0,1,0,5,14.857,6.857,6.857,0,0,0,11.857,21.714Z" transform="translate(2.143 2.143)" fill="#da4040"/>
+    <path id="Caminho_1383" data-name="Caminho 1383" d="M17.857,21.714A6.857,6.857,0,1,0,11,14.857,6.857,6.857,0,0,0,17.857,21.714Z" transform="translate(6.429 2.143)" fill="#d99735"/>
+    <path id="Caminho_1384" data-name="Caminho 1384" d="M12.714,9.354a6.857,6.857,0,0,0,0,9.071,6.857,6.857,0,0,0,0-9.071Z" transform="translate(6.429 3.11)" fill="#db7a34" fill-rule="evenodd"/>
+  </g>
+</svg>
