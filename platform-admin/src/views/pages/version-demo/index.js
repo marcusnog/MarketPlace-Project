@@ -16,7 +16,7 @@ const Wizard = () => {
             <Container>
                 <Col md="11" className="mx-auto">
                     <Col className="py-3" sm='12'>
-                        <h1 className='text-center pb-3 bs-color_text'>Bem-vindo ao Reconhece.vc</h1>
+                        <h1 className='text-center pb-3 bs-color_text'>Bem-vindo ao Memorabília</h1>
                         <WizardHorizontal />
                     </Col>
                 </Col>
@@ -50,7 +50,7 @@ const Wizard = () => {
                     </svg>
 
                 </figure>
-                <p className='text-white font-weight-light m-0'>® Reconhece.vc – CNPJ: 00.000.000/0000-00 <br /> Todos os direitos reservados</p>
+                <p className='text-white font-weight-light m-0'>® Memorabília – CNPJ: 00.000.000/0000-00 <br /> Todos os direitos reservados</p>
             </footer>
         </div>
     </Fragment>

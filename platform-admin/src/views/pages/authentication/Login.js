@@ -14,7 +14,7 @@ import InputPasswordToggle from '@components/input-password-toggle'
 import { getHomeRouteForLoggedInUser, isObjEmpty } from '@utils'
 import { Coffee } from 'react-feather'
 import UILoader from '@components/ui-loader'
-import logo from '@src/assets/images/logo/logo-reconhece.png'
+// import logo from '@src/assets/images/logo/logo-reconhece.png'
 
 import {
   Alert,
@@ -111,7 +111,7 @@ const Login = props => {
       <div className='auth-wrapper auth-v2'>
         <Row className='auth-inner m-0'>
           <Link className='brand-logo' to='/' onClick={e => e.preventDefault()}>
-            <img src={logo} height='28' />
+            <img src="https://memorabiliadoesporte.com.br/wp-content/uploads/2020/12/MDE-1.jpg" height='60' />
           </Link>
           <Col className='d-none d-lg-flex align-items-center p-5' lg='8' sm='12'>
             <div className='w-100 d-lg-flex align-items-center justify-content-center px-5'>

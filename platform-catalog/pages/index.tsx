@@ -18,38 +18,38 @@ import { toast } from "react-toastify";
 function Home() {
     const { stores, productsBestSellers, productsOnSale, productsWhitinPrice, loading: configLoading } = useHomeDataContext();
     const { session, setSession} = useAuthContext();
-    useEffect(() => {
-        const removerToken = () => {
-          setSession(undefined);
-        };
+    // useEffect(() => {
+    //     const removerToken = () => {
+    //       setSession(undefined);
+    //     };
     
-        const timeoutId = setTimeout(removerToken, 30 * 60 * 1000); // 30 minutos em milissegundos
+    //     const timeoutId = setTimeout(removerToken, 30 * 60 * 1000); // 30 minutos em milissegundos
     
-        return () => {
-          clearTimeout(timeoutId); // Limpa o timeout se o componente for desmontado antes do tempo limite
-        };
-      }, [session]);
+    //     return () => {
+    //       clearTimeout(timeoutId); // Limpa o timeout se o componente for desmontado antes do tempo limite
+    //     };
+    //   }, [session]);
 
-      useEffect(() => {
-        if (session === undefined) {
-          toast.success('Token expirado, por favor refaça o login para continuar', {
-            position: "top-right",
-            autoClose: 5000,
-            hideProgressBar: false,
-            closeOnClick: true,
-            pauseOnHover: true,
-            draggable: true,
-            progress: undefined,
-          });
+    //   useEffect(() => {
+    //     if (session === undefined) {
+    //       toast.success('Token expirado, por favor refaça o login para continuar', {
+    //         position: "top-right",
+    //         autoClose: 5000,
+    //         hideProgressBar: false,
+    //         closeOnClick: true,
+    //         pauseOnHover: true,
+    //         draggable: true,
+    //         progress: undefined,
+    //       });
           
-          router.push({
-            pathname: "/login/page-login",
-            // pathname: "https://www.reconhece.vc/"
-        });
-        }
-      },[]);
+    //       router.push({
+    //         pathname: "/login/page-login",
+    //         // pathname: "https://www.reconhece.vc/"
+    //     });
+    //     }
+    //   },[]);
 
-    console.log("autenticado:", session);
+    // console.log("autenticado:", session);
 
     return (
         <>
